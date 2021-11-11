@@ -1,0 +1,2 @@
+import pywhatkit as kit
+kit.sendwhatmsg(+918805236093,"Copy assignment",18,20)
